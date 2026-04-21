@@ -1,3 +1,26 @@
+# Привет, я Екатерина Метельская 👋
+
+**Бизнес-аналитик | UX/UI Designer | IT Product Enthusiast**
+Бизнес-аналитик с бэкграундом в дизайне.
+
+### 🛠 Мой стек и навыки
+
+* **Бизнес-анализ:** BPMN, UML, User Story, Use Case, разработка ТЗ, требований к решению, ПМИ, SQL.
+* **Дизайн и Прототипирование:** Figma (продвинутое использование переменных и токенов), FigJam, Miro.
+* **Разработка и No-code:** Python (на стадии обучения), понимание архитектуры IT-продуктов, синхронизация дизайна с кодом.
+* **Инструменты:** Confluence, Jira, Битрикс24, Qlik Sense.
+
+### 🚀 Опыт и достижения
+
+* **Газпром нефть:** Внедрила системный подход к проектированию интерфейсов, что ускорило разработку и улучшило пользовательский опыт.
+* **UX/UI ⇋ BA:** Моя уникальность в том, что я говорю на одном языке и с разработчиками, и со стейкхолдерами, переводя сложные бизнес-задачи в понятные визуальные требования.
+
+### 📫 Как со мной связаться
+
+* Telegram: [@metelskaya_ekaterina](https://t.me/metelskaya_ekaterina)
+* Email: metelskaya.ek@gmail.com
+* Локация: Новосибирск (готова к гибридному формату)
+
 
 <!--
 **catetinemetel/catetinemetel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,26 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <h1>Привет, я <a href="https://t.me/metelskaya_ekaterina" target="_blank">Екатерина Метельская</a> 👋</h1>
-  <p align="center">
-    <strong>Бизнес-аналитик | UX/UI Designer | IT Product Enthusiast</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://t.me/metelskaya_ekaterina">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="mailto:metelskaya.ek@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Novosibirsk-brightgreen?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  </p>
-
-  <hr />
-
-  <p align="center" style="max-width: 800px;">
-    <i>Я помогаю бизнесу находить баланс между техническими требованиями и удобством для пользователей. 
-    В моей карьере я прошла путь от проектирования интерфейсов до глубокого бизнес-анализа в крупных компаниях, таких как <b>Газпром нефть</b>.</i>
-  </p>
-</div>
